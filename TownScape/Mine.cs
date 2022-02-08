@@ -30,17 +30,16 @@ namespace TownScape
 
         public void RunMine()
         {
-
-            while (level1 == true && mineActive == true) 
+            lock (lockObject)
             {
-                lock (lockObject)
+                while (level1 == true && mineActive == true)
                 {
                     //1000 = 1 sec, 5000 = 5 sec, 30000 = 30 sec
                     Thread.Sleep(2000);
 
                     goldPoints += 25;
                 }
-
+                    
             }
         }
     }

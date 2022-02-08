@@ -30,17 +30,15 @@ namespace TownScape
 
         public void RunSawmill()
         {
-            
-            while (level1 == true && sawmillActive == true)
+            lock(lockObject)
             {
-                lock(lockObject)
+                while (level1 == true && sawmillActive == true)
                 {
                     //1000 = 1 sec, 5000 = 5 sec, 30000 = 30 sec
                     Thread.Sleep(1000);
 
                     woodPoints += 25;
                 }
-                
             }
         }
     }

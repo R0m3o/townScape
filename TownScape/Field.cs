@@ -30,17 +30,15 @@ namespace TownScape
 
         public void RunField()
         {
-
-            while (level1 == true && fieldActive == true) 
+            lock(lockObject)
             {
-                lock (lockObject)
+                while (level1 == true && fieldActive == true)
                 {
                     //1000 = 1 sec, 5000 = 5 sec, 30000 = 30 sec
                     Thread.Sleep(20000);
 
                     foodPoints += 25;
                 }
-
             }
         }
     }
