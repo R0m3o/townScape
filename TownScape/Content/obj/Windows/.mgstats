@@ -1,2 +1,2 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/Romeo/source/repos/TownScape/TownScape/Content/TextTownScape.spritefont","C:/Users/Romeo/source/repos/TownScape/TownScape/Content/bin/Windows/TextTownScape.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0,2350671
+"C:/Users/Romeo/source/repos/TownScape/TownScape/Content/button-gf531801aa_640.png","C:/Users/Romeo/source/repos/TownScape/TownScape/Content/bin/Windows/button-gf531801aa_640.xnb","TextureProcessor","Texture2DContent",10953,819285,0,2028348

@@ -36,3 +36,4 @@ C:\Users\Romeo\source\repos\TownScape\TownScape\obj\Debug\netcoreapp3.1\TownScap
 C:\Users\Romeo\source\repos\TownScape\TownScape\obj\Debug\netcoreapp3.1\TownScape.dll
 C:\Users\Romeo\source\repos\TownScape\TownScape\obj\Debug\netcoreapp3.1\TownScape.pdb
 C:\Users\Romeo\source\repos\TownScape\TownScape\obj\Debug\netcoreapp3.1\TownScape.genruntimeconfig.cache
+C:\Users\Romeo\source\repos\TownScape\TownScape\bin\Debug\netcoreapp3.1\Content\button-gf531801aa_640.xnb

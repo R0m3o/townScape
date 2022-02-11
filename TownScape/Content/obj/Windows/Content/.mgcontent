@@ -4,9 +4,11 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/Romeo/source/repos/TownScape/TownScape/Content/button-gf531801aa_640.png</File>
     <File>C:/Users/Romeo/source/repos/TownScape/TownScape/Content/TextTownScape.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>
